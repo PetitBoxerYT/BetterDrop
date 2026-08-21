@@ -12,11 +12,12 @@ import net.minecraftforge.event.entity.player.EntityItemPickupEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.api.distmarker.Dist;
 
 import java.util.List;
 import java.util.Optional;
 
-@Mod.EventBusSubscriber(modid = "examplemod")
+@Mod.EventBusSubscriber(modid = "examplemod", value = Dist.CLIENT)
 public class ItemInteractionHandler {
 
     // 1. Désactive le ramassage automatique au toucher
