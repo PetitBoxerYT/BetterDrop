@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="examplemod"
+version="${file.jarVersion}"
+displayName="Better Drop"
+authors="PetitBoxer"
+description='''
+Ce mod modifie le système de drop de Minecraft.
+'''
