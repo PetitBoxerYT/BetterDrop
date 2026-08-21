@@ -1,29 +1,21 @@
+**Better Drop** is a *Quality of Life* (QoL) mod that completely overhauls how item entities behave on the ground in Minecraft.
 
-Installation information
-=======
+### 🌟 Features
+* **Manual Pickup:** Items no longer automatically enter your inventory when walking over them.
+* **Contextual HUD:** A clean indicator appears under your crosshair when looking at an item on the ground.
+* **Right Click (RMB):** Pick up the targeted item from up to 4 blocks away.
+* **Left Click (LMB):** Instantly destroy unwanted items on the ground.
+* **Multilingual:** Full English and French support natively included.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+---
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+**Better Drop** est un mod *Quality of Life* qui repense la gestion des objets jetés au sol.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+### 🌟 Fonctionnalités
+* **Ramassage manuel :** Les objets ne sont plus aspirés automatiquement quand vous marchez dessus.
+* **HUD Contextuel :** Un indicateur discret apparaît sous votre viseur lorsque vous pointez un objet.
+* **Clic Droit (RMB) :** Ramasse l'objet ciblé jusqu'à 4 blocs de distance.
+* **Clic Gauche (LMB) :** Détruit instantanément l'objet au sol.
+* **Multilingue :** Support complet du français et de l'anglais.
 
-Mapping Names:
-============
-The MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-MDG Legacy:
-==========
-This template uses [ModDevGradle Legacy](https://github.com/neoforged/ModDevGradle). Documentation can be found [here](https://github.com/neoforged/ModDevGradle/blob/main/LEGACY.md).
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eGnbgwLsxxs" title="Lanceur de vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
