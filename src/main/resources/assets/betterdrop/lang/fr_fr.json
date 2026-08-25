@@ -1,3 +1,5 @@
 {
-  "hud.betterdrop.interact": "Détruire [LMB]  |  [RMB] Ramasser"
+  "hud.betterdrop.interact": "Détruire [%1$s] | [%2$s] Ramasser",
+  "key.betterdrop.pickup": "Ramasser l'objet",
+  "key.categories.betterdrop": "BetterDrop"
 }

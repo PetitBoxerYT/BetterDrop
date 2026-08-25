@@ -1,3 +1,5 @@
 {
-  "hud.betterdrop.interact": "Destroy [LMB]  |  [RMB] Pick up"
+  "hud.betterdrop.interact": "Destroy [%1$s] | [%2$s] Pick up",
+  "key.betterdrop.pickup": "Pick up item",
+  "key.categories.betterdrop": "BetterDrop"
 }

@@ -3,10 +3,14 @@ loaderVersion="[47,)"
 license="MIT"
 
 [[mods]]
-modId="examplemod"
-version="${file.jarVersion}"
-displayName="Better Drop"
+modId="betterdrop"
+version="1.0.1"
+displayName="BetterDrop"
 authors="PetitBoxer"
 description='''
-Ce mod modifie le système de drop de Minecraft.
+Better Drop is a Quality of Life (QoL) mod that completely overhauls how item entities behave on the ground in Minecraft.
+
+* Features:
+Manual Pickup: Items no longer automatically enter your inventory when walking over them.
 '''
+Mixins = ["betterdrop.mixins.json"]
